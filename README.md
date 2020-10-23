@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning **HTML/CSS**
+- 🌱 I’m currently learning **RUBY**
 
 - 📫 How to reach me **oleinikovsigors@gmail.com**
 
