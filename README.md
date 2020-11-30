@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning **RUBY**
+- 🌱 I’m currently learning **RUBY ON RAILS**
 
 - 📫 How to reach me **oleinikovsigors@gmail.com**
+- **+371 22 811 907**
 
 <p align="left">
 <h3 align="left">📫 Connect with me:</h3>
