@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Image](img/atsea.jpg)
-
+![Visitor Count](https://en153v3erk0xbhl.m.pipedream.net)
 <h1 align="center">I'm Igor<br>- 😄 Pronouns: E-gorr </h1>
 
 <h3 align="center">A passionate Full-stack developer from Latvia</h3>
@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Igors78&show_icons=true" alt="Igors78" /></p>
 
-![Visitor Count](https://en153v3erk0xbhl.m.pipedream.net)
+
