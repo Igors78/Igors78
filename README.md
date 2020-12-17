@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Igors78&show_icons=true" alt="Igors78" /></p>
 
-![Visitor Count](https://profile-counter.glitch.me/{Igors78}/count.svg)
+![Visitor Count](https://en153v3erk0xbhl.m.pipedream.net)
