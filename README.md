@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 ![Visitor Count](https://en153v3erk0xbhl.m.pipedream.net)
 <h1 align="center">I'm Igor<br>- 😄 Pronouns: E-gorr </h1>
 
-<h3 align="center">A passionate Full-stack developer from Latvia</h3>
+<h3 align="center">A passionate developer from Latvia</h3>
 
 
 
-- 🌱 I’m currently learning **RUBY ON RAILS**
+- 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **oleinikovsigors@gmail.com**
 - **+371 22 811 907**
