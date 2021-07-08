@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate developer from Latvia</h3>
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ioleinik?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ioleinik?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ioleinik)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ioleinik?darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
 
 - 🌱 I’m currently learning **C**
