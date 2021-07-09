@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ioleinik?darkmode=true&cursus=42cursus)
 
-![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ioleinik?darkmode=true&cursus=cpiscine)
+![42 stats](https://badge42.herokuapp.com/api/stats/ioleinik?darkmode=true&cursus=cpiscine)
 
 - 🌱 I’m currently learning **C**
 
