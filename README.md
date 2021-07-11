@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg"></code>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igors78&layout=compact&darkmode=true" alt="Igors78" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igors78&layout=compact&theme=merco" alt="Igors78" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Igors78&show_icons=true&darkmode=true" alt="Igors78" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Igors78&show_icons=true&theme=merco" alt="Igors78" /></p>
 
 
