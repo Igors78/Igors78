@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igors78&layout=compact&theme=merco" alt="Igors78" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" alt="Igors78" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Igors78&theme=merco&show_icons=true" alt="Igors78" /></p>
 
 
